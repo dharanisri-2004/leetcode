@@ -4,10 +4,10 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        if not list1 or not list2:
-            return list1 if list1 else list2
-        if list1.val>list2.val:
-            list1,list2=list2,list1
-        list1.next=self.mergeTwoLists(list1.next,list2)
-        return list1
+    def mergeTwoLists(self, lst1: Optional[ListNode], lst2: Optional[ListNode]) -> Optional[ListNode]:
+        if not lst1 or not lst2:
+            return lst1 if lst1 else lst2
+        if lst1.val>lst2.val:
+            lst1,lst2=lst2,lst1
+        lst1.next=self.mergeTwoLists(lst1.next,lst2)
+        return lst1
