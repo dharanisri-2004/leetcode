@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/dharanisri-2004/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/dharanisri-2004/leetcode/tree/master/0067-add-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dharanisri-2004/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dharanisri-2004/leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dharanisri-2004/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dharanisri-2004/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dharanisri-2004/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
